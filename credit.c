@@ -1,11 +1,13 @@
 /**
  * 
+ *   Bad Credit
  *   credit.c
+ *   hacker1 for cs50
  * 
  *   Filippov Anton
  * 
  * 
- *   prompts the user for a credit card number and then reports (via printf) whether it is a valid 
+ * Prompts the user for a credit card number and then reports (via printf) whether it is a valid 
  * American Express, MasterCard, or Visa card number, per the definitions of each’s format herein
  * 
  */
